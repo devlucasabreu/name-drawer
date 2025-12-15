@@ -23,18 +23,9 @@ O aplicativo oferece um conjunto robusto de recursos para gerenciar e sortear no
 * **Sorteio Animado:** O resultado do sorteio é exibido com um efeito de "rolagem" rápida para simular a escolha, tornando o processo mais interativo e visualmente agradável.
 * **Feedback ao Usuário:** Utilização de mensagens de erro temporárias para guiar o usuário em caso de inputs inválidos.
 
-## ⚙️ Como Utilizar
-
-Por ser um projeto puramente frontend e estático, a execução é extremamente simples, não necessitando de ambientes Node.js ou servidores:
-
-### 1. Clonando o Repositório
-
-```bash
-git clone https://github.com/devlucasabreu/name-drawer
-cd name-drawer
 
 ## 🌐 Demonstração Online
 
 O projeto está hospedado e acessível publicamente no link abaixo
 
-[Deploy with Netlify](https://devlucasabreu-name-drawer.netlify.app/)
+➡️ [LINK DE ACESSO](https://devlucasabreu-name-drawer.netlify.app/)
