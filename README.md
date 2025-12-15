@@ -30,8 +30,8 @@ Por ser um projeto puramente frontend e estático, a execução é extremamente 
 ### 1. Clonando o Repositório
 
 ```bash
-git clone [COLOQUE_AQUI_O_LINK_DO_SEU_REPOSITÓRIO_GITHUB]
-cd sortedaor-de-nomes
+git clone https://github.com/devlucasabreu/name-drawer
+cd name-drawer
 
 ## 🌐 Demonstração Online
 
