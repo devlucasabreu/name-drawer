@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css">
+  <title>Sorteio de Nomes</title>
+</head>
+
+<body>
+  <main class="container">
+    <div class="logo">💻</div>
+
+    <h2>Sorteio de Nomes</h2>
+    <p class="subtitle">Adicione nomes e descubra o sortudo!</p>
+
+    <div class="input-group">
+      <input type="text" placeholder="Digite um nome" class="input" id="nameInput" />
+      <button class="btn-add" id="btnAdd">+</button>
+    </div>
+
+    <p class="error" id="error"></p>
+
+    <div class="counter" id="counter">0 nomes adicionados</div>
+
+    <div class="names-list" id="namesList">
+      <p class="empty-state">Nenhum nome adicionado ainda</p>
+    </div>
+
+    <button class="btn-sortear" id="btnSortear" disabled>Sortear Nome</button>
+    <button class="btn-clear" id="btnClear">Limpar Tudo</button>
+
+    <div class="result" id="result">
+      <div class="result-label">Nome Sorteado</div>
+      <div class="result-name" id="resultName">Nome</div>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
