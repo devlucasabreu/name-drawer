@@ -28,4 +28,4 @@ O aplicativo oferece um conjunto robusto de recursos para gerenciar e sortear no
 
 O projeto está hospedado e acessível publicamente no link abaixo
 
-➡️ [LINK DE ACESSO][devlucasabreu-name-drawer](https://devlucasabreu-name-drawer.netlify.app/)
+➡️ LINK DE ACESSO [devlucasabreu-name-drawer](https://devlucasabreu-name-drawer.netlify.app/)
