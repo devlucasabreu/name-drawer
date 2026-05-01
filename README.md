@@ -1,5 +1,9 @@
 # ✨ Gerador/Sorteador de Nomes
 
+<p align="center">
+  <a href="https://devlucasabreu-name-drawer.netlify.app/"><strong>Acessar o Projeto Online</strong></a>
+</p>
+
 Um aplicativo web simples e eficiente para criar listas de nomes e realizar um sorteio aleatório e animado. Ideal para sorteios rápidos em eventos, grupos ou decisões informais.
 
 ## 🚀 Tecnologias Utilizadas
@@ -23,9 +27,3 @@ O aplicativo oferece um conjunto robusto de recursos para gerenciar e sortear no
 * **Sorteio Animado:** O resultado do sorteio é exibido com um efeito de "rolagem" rápida para simular a escolha, tornando o processo mais interativo e visualmente agradável.
 * **Feedback ao Usuário:** Utilização de mensagens de erro temporárias para guiar o usuário em caso de inputs inválidos.
 
-
-## 🌐 Demonstração Online
-
-O projeto está hospedado e acessível publicamente no link abaixo
-
-➡️ LINK DE ACESSO [devlucasabreu-name-drawer](https://devlucasabreu-name-drawer.netlify.app/)
